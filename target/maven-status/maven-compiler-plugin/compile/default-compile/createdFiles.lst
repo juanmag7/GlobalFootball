@@ -1,0 +1,6 @@
+com\apuestas\globalfootball\App.class
+com\apuestas\globalfootball\model\TeamStats.class
+com\apuestas\globalfootball\model\Match.class
+com\apuestas\globalfootball\ui\MainFrame.class
+com\apuestas\globalfootball\util\CSVLoader.class
+com\apuestas\globalfootball\controller\StatsCalculator.class
